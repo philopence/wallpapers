@@ -27,3 +27,6 @@
 <img src="https://raw.githubusercontent.com/philopence/wallpapers/master/16.png" width="320" height="180" />
 <img src="https://raw.githubusercontent.com/philopence/wallpapers/master/17.png" width="320" height="180" />
 </div>
+<img src="https://raw.githubusercontent.com/philopence/wallpapers/master/girl.png" width="320" height="180" />
+<img src="https://raw.githubusercontent.com/philopence/wallpapers/master/wallhaven-6k62wx.png" width="320" height="180" />
+<img src="https://raw.githubusercontent.com/philopence/wallpapers/master/wallhaven-n65epw.png" width="320" height="180" />
